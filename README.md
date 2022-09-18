@@ -1,4 +1,4 @@
-# Parametros de una celda solar
+# Parámetros de una celda solar
 Software para visualizar el efecto de la temperatura y la Corriente Fotogenerada en una celda solar, a partir de las ecuaciones características.
 
 El funcionamiento del software desarrollado se encuentra fundamentado en el diagrama de flujo mostrado a continuación,
