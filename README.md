@@ -11,10 +11,10 @@ A continuación se muestra una vista de la interfaz desarrollada,
 
 Descripción de archivos:
 
-Programa.py --> Código fuente del software desarrollado.
+   Programa.py --> Código fuente del software desarrollado.
 
-Ejecutable.pyw --> Archivo ejecutable del programa.
+  Ejecutable.pyw --> Archivo ejecutable del programa.
 
-Logo_UFPS.png --> Logo de la universidad Francisco de Paula Santande. * Necesario tenerlo en la misma ruta para poder ejecutar el programa.
+  Logo_UFPS.png --> Logo de la universidad Francisco de Paula Santande. * Necesario tenerlo en la misma ruta para poder ejecutar el programa.
 
-energia-solar.ico --> Imagen usada como icono del programa. * Necesario tenerlo en la misma ruta para poder ejecutar el programa.
+  energia-solar.ico --> Imagen usada como icono del programa. * Necesario tenerlo en la misma ruta para poder ejecutar el programa.
