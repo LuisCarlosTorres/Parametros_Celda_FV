@@ -1,7 +1,7 @@
 # Efecto de la temperatura y la Corriente Fotogenerada en una celda solar
-Software desarrollado para visualizar el efecto de la temperatura y la Corriente Fotogenerada en una celda solar, a partir de las ecuaciones características.
+Software desarrollado para visualizar el efecto de la temperatura y la Corriente Fotogenerada en una celda solar a partir de las ecuaciones características.
 
-El funcionamiento del software desarrollado se encuentra fundamentado en el diagrama de flujo mostrado a continuación,
+El funcionamiento del software desarrollado se encuentra fundamentado en el diagrama de flujo mostrado a continuación:
 
 ![Diagrama de flujo (1)](https://user-images.githubusercontent.com/83727627/190926762-01c2b31d-7834-491b-aacd-00af07a7fbd9.png)
 
